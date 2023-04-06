@@ -1,2 +1,2 @@
-# hello_world
-This is my first repository 
+# My name is Emily Ye.
+This is my first repository.
